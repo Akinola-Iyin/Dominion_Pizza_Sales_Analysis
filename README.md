@@ -49,8 +49,8 @@ The analysis involved the following steps:
 3. **Dashboard Creation**: An interactive Excel dashboard was built using pivot tables and charts connected to the SQL database. A timeline filter was added for enhanced interactivity.
 
 ## Files
-- **Dataset**: You can check out the Excel workbook containing the cleaned data and the interactive dashboard here: [Excel Workbook](https://docs.google.com/spreadsheets/d/11BwMb3GIuYUSnVOuKBAlp5lJ9yUWWyu8/edit?usp=drive_link&ouid=118110181468829394233&rtpof=true&sd=true).
-- **Documentation**: The in-depth analysis report can be downloaded here: [Data_Cleaning_and_Analysis_Report.pdf](https://github.com/user-attachments/files/18068672/Data_Cleaning_and_Analysis_Report.pdf)
+- **Dataset**: You can check out the Excel workbook containing the cleaned data and the interactive dashboard here: [Excel Workbook](https://docs.google.com/spreadsheets/d/1tkPNKJf4eyypxVRlH9f3Ofo35FSiqrx2/edit?usp=drive_link&ouid=118110181468829394233&rtpof=true&sd=true).
+- **Documentation**: The in-depth analysis report can be downloaded here: [Data_Cleaning_and_Analysis_Report.pdf](Dominion_Pizza_Data_Cleaning_and_Analysis_Report.pdf)
 
 ## Tools and Techniques
 - **SQL Server Management Studio**: Data analysis and KPI extraction.
