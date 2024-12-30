@@ -1,4 +1,4 @@
-# Dominion Pizza Sales Analysis and Interactive Dashboard
+# Dominion Pizza Sales Analysis Project
 
 ## Table of Contents
 - [Project Overview](#project-overview)
