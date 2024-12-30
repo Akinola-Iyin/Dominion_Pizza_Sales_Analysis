@@ -32,7 +32,7 @@ The interactive dashboard includes:
 - **Timeline Filter** for dynamic date filtering.
 
 ### Screenshot of the Dashboard:
-![Pizza Sales Dashboard](Images/pizza_sales_dashboard.png)
+![Pizza Sales Dashboard](Dominion_Pizza_Dashboard.png)
 
 ## Key Performance Indicators
 The following KPIs were calculated:
