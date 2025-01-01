@@ -13,7 +13,7 @@
 - [Contact Information](#contact-information)
 
 ## Project Overview
-This project analyzes sales data from Dominion Pizza Company to provide actionable insights for improving sales and understanding customer behavior. The final deliverable is an interactive Excel dashboard that highlights key performance indicators (KPIs) and trends in pizza sales.
+This project analyzed sales data from Dominion Pizza Company to provide actionable insights for improving sales and understanding customer behavior. The final deliverable was an interactive Excel dashboard that highlighted key performance indicators (KPIs) and trends in pizza sales.
 
 ## Project Objectives
 The primary goals of this analysis were:
