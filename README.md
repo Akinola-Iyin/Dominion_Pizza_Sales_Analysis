@@ -51,7 +51,7 @@ The analysis involved the following steps:
 ## Files
 - **Dataset**: You can check out the Excel workbook containing the cleaned data and the interactive dashboard here: [Excel Workbook](https://docs.google.com/spreadsheets/d/1tkPNKJf4eyypxVRlH9f3Ofo35FSiqrx2/edit?usp=drive_link&ouid=118110181468829394233&rtpof=true&sd=true).
 - **Documentation**: The in-depth analysis report can be downloaded here: [Data_Cleaning_and_Analysis_Report](Dominion_Pizza_Data_Cleaning_and_Analysis_Report.pdf)
-- **Query Document**: The SQL queries for analysing the KPIs can be viewed here: [Dominion Pizza SQL Queries](Dominion Pizza SQL Queries.pdf)
+- **Query Document**: The SQL queries for analysing the KPIs can be viewed here: [Dominion Pizza SQL Queries](Dominion_Pizza_SQL_Queries.pdf)
 
 ## Tools and Techniques
 - **SQL Server Management Studio**: Data analysis and KPI extraction.
